@@ -1,0 +1,2 @@
+# Example project for Spring IoC
+[Engine](../ioc-example-model/src/main/java/com/gooddata/iocintroduction/model/Engine.java) and [Brake](../ioc-example-model/src/main/java/com/gooddata/iocintroduction/model/Brake.java) dependencies autowired / injected to the LoggedCar object by  Spring framework.

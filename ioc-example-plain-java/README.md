@@ -1,0 +1,2 @@
+# Example project for plain Java model composition
+[Engine](../ioc-example-model/src/main/java/com/gooddata/iocintroduction/model/Engine.java) and [Brake](../ioc-example-model/src/main/java/com/gooddata/iocintroduction/model/Brake.java) are constructed and injected to Car implementation object manually - by builder.

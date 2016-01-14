@@ -1,4 +1,17 @@
-target/
+/target
+.settings/**
+.classpath
+.project
+**/target
+**/.settings/**
+**/.classpath
+**/.project
+**/**/target
+**/**/.settings/**
+**/**/.classpath
+**/**/.project
+*.iml
+*.springboot
 pom.xml.tag
 pom.xml.releaseBackup
 pom.xml.versionsBackup
@@ -6,3 +19,4 @@ pom.xml.next
 release.properties
 dependency-reduced-pom.xml
 buildNumber.properties
+
